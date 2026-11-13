@@ -19,7 +19,7 @@ concurrency:
 
 env:
   MOYAI_REPO: mushitaro/moyai
-  MOYAI_SHA: 179a0be2192942ab4c37d147f66e15c98a7217a9 # MOYAI の検証の版（タグではなく commit）
+  MOYAI_SHA: ccd3284849f97a4a90e971fe8a3a487e5cd6971a # MOYAI の検証の版（タグではなく commit。台帳を moyai-ledger に戻した切り替え mushitaro/moyai#20 が入った main の commit）
 
 jobs:
   validate:

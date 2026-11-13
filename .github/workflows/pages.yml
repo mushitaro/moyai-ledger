@@ -19,7 +19,7 @@ concurrency:
 
 env:
   MOYAI_REPO: mushitaro/moyai
-  MOYAI_SHA: 179a0be2192942ab4c37d147f66e15c98a7217a9 # ledger-validate.yml と同じ版にする
+  MOYAI_SHA: ccd3284849f97a4a90e971fe8a3a487e5cd6971a # ledger-validate.yml と同じ版にする
 
 jobs:
   build:
